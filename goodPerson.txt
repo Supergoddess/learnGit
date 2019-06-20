@@ -9,4 +9,6 @@
 You are a good person.\
 One plus one is two.\
 One multiple 2 is two.\
+\
+one is always one.\
 }
